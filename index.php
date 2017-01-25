@@ -1,5 +1,8 @@
 <?php 
-	get_header(); 
+	get_header();
+
+	<main></main>	
+ 
 	get_footer();
 
 ?>
