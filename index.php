@@ -1,7 +1,9 @@
 <?php 
 	get_header();
 
-	<main></main>	
+	<main>
+		<h1>Site being updated. Check back soon!
+	</main>	
  
 	get_footer();
 
